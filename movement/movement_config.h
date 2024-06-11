@@ -28,11 +28,13 @@
 #include "movement_faces.h"
 
 const watch_face_t watch_faces[] = {
+    close_enough_clock_face,
     simple_clock_face,
     world_clock2_face,
     sunrise_sunset_face,
     moon_phase_face,
     stock_stopwatch_face,
+    timer_face,
     tarot_face,
     preferences_face,
     set_time_face,
